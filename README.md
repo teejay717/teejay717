@@ -1,7 +1,13 @@
 ## 🏆Certificates
 
-
-<img width="400" height="6750" alt="Certificate_DevFest_Davao_2025_Terenz_Jahred" src="https://github.com/user-attachments/assets/feea54e5-0bf4-4b29-aac5-8cebb11d3aa9" />
+<table>
+  <tr>
+    <td align="center">
+      <h3>📌 Google DevFest 2025</h3>
+      <img width="400" height="6750" alt="Certificate_DevFest_Davao_2025_Terenz_Jahred" src="https://github.com/user-attachments/assets/feea54e5-0bf4-4b29-aac5-8cebb11d3aa9" />
+    </td>
+  </tr>
+</table>
 
 <!--
 **teejay717/teejay717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
