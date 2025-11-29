@@ -1,4 +1,7 @@
-## Hi there 👋
+## 🏆Certificates
+
+
+<img width="3000" height="6750" alt="Certificate_DevFest_Davao_2025_Terenz_Jahred" src="https://github.com/user-attachments/assets/feea54e5-0bf4-4b29-aac5-8cebb11d3aa9" />
 
 <!--
 **teejay717/teejay717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
