@@ -27,7 +27,7 @@
 
 ### 🚀 What I'm Working On
 
-#### 🚧 [MERN Todo App](LINK_TO_YOUR_REPO_HERE)
+#### 🚧 [MERN Todo App]([https://github.com/teejay717/mern-todo-app])
 This is my first full-stack project to understand the request-response cycle.
 * **Goal:** To learn how to connect a React Frontend to a Node/Express Backend.
 * **Tech:** React, Node.js, Express, MongoDB Atlas.
