@@ -1,6 +1,6 @@
 # Hi there, I'm Teejay! 👋
 
-I'm an **Aspriting Full Stack Developer** currently expanding my skillset into the Backend. I love learning how applications work under the hood and have recently built my first complete **MERN Stack** application.
+## I'm an **Aspiring Full Stack Developer** currently expanding my skillset into the Backend. I love learning how applications work under the hood and have recently built my first complete **MERN Stack** application. ##
 
 ---
 
