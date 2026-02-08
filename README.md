@@ -1,6 +1,6 @@
 # Hi there, I'm Teejay! 👋
 
-## I'm an **Aspiring Full Stack Developer** currently expanding my skillset into the Backend. I love learning how applications work under the hood and have recently built my first complete **MERN Stack** application. ##
+## I'm an **Aspiring Full Stack Developer** currently expanding my skillset into the Backend. I love learning how applications work under the hood and have recently built my first complete **MERN Stack** application.
 
 ---
 
@@ -13,13 +13,11 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-
 **Backend (Currently Learning)**
 <br>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
 
 **Tools**
 <br>
@@ -32,15 +30,25 @@
 
 ### 🚀 What I'm Working On
 
-#### 🚧 [MERN Todo App](https://github.com/teejay717/mern-todo-app)
+#### 🚧 [**MERN Todo App**](https://github.com/teejay717/mern-todo-app) • _Full Stack Task Management_
 This is my first full-stack project to understand the request-response cycle.
+
 * **Goal:** To learn how to connect a React Frontend to a Node/Express Backend.
 * **Tech:** React, Node.js, Express, MongoDB Atlas.
-* **Features:** Full CRUD capabilities (Create, Read, Update, Delete) with data persistence in the cloud.
+* **Features:** Full CRUD capabilities with data persistence in the cloud.
+
+**🧠 Technical Challenges & Learnings**
+* **State Management & Persistence:** Handled the challenge of keeping the UI in sync with the MongoDB database by implementing optimistic UI updates and proper request-response handling.
+* **RESTful API Design:** Developed a deep understanding of the request-response cycle by building custom Express routes and handling asynchronous operations with `async/await`.
+* **Deployment Workflow:** Navigated the complexities of CORS and environment variables to connect a Vercel-hosted frontend with a Render-hosted backend.
 
 ---
 
+### 📊 My GitHub Stats
+
 <div align="center">
-  <img height="180" src="https://github-readme-stats-two-gamma-58.vercel.app/api?username=teejay717&show_icons=true&theme=tokyonight&hide_rank=true" />
-  <img height="180" src="https://github-readme-stats-two-gamma-58.vercel.app/api/top-langs/?username=teejay717&layout=compact&theme=tokyonight&langs_count=6" />
+  <img height="175" src="https://github-readme-stats-two-gamma-58.vercel.app/api?username=teejay717&show_icons=true&theme=tokyonight&hide_rank=true" />
+  <img height="175" src="https://github-readme-stats-two-gamma-58.vercel.app/api/top-langs/?username=teejay717&layout=compact&theme=tokyonight&hide_title=true&langs_count=5" />
 </div>
+
+---
