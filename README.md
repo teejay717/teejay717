@@ -13,7 +13,6 @@ I'm an **Aspriting Full Stack Developer** currently expanding my skillset into t
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<br>
 
 **Backend (Currently Learning)**
 <br>
@@ -21,7 +20,6 @@ I'm an **Aspriting Full Stack Developer** currently expanding my skillset into t
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<br>
 
 **Tools**
 <br>
@@ -43,4 +41,4 @@ This is my first full-stack project to understand the request-response cycle.
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=teejay717&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=teejay717&show_icons=true&theme=dark" alt="GitHub Stats" />
