@@ -40,8 +40,9 @@ This is my first full-stack project to understand the request-response cycle.
 
 ---
 
-[![Teejay's GitHub stats](https://github-readme-stats.vercel.app/api?username=teejay717&show_icons=true&theme=radical)](https://github.com/anurag-hazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teejay717&layout=compact&theme=radical)](https://github.com/anurag-hazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats-two-gamma-58.vercel.app/api?username=teejay717&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-two-gamma-58.vercel.app/api/top-langs/?username=teejay717&layout=compact&theme=radical" />
+</div>
 
 
