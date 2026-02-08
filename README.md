@@ -42,3 +42,4 @@ This is my first full-stack project to understand the request-response cycle.
 
 ### 📈 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=teejay717&show_icons=true&theme=dark" alt="GitHub Stats" />
+[![Teejay717's GitHub stats](https://github-readme-stats.vercel.app/api?username=teejay717)](https://github.com/teejay717/github-readme-stats)
