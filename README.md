@@ -1,6 +1,6 @@
 # Hi there, I'm Terenz! 👋
 
-I'm an **Aspiring Full Stack Developer** passionate about building web applications that solve real-world problems. I recently transitioned from frontend development to building complete **MERN Stack** applications.
+## I'm an **Aspiring Full Stack Developer** passionate about building web applications that solve real-world problems. I recently transitioned from frontend development to building complete **MERN Stack** applications.
 
 ---
 
