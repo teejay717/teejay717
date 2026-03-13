@@ -44,11 +44,3 @@ This is my first full-stack project to understand the request-response cycle.
 
 ---
 
-### 📊 My GitHub Stats
-
-<div align="center">
-  <img height="175" src="https://github-readme-stats-two-gamma-58.vercel.app/api?username=teejay717&show_icons=true&theme=tokyonight&hide_rank=true" />
-  <img height="175" src="https://github-readme-stats-two-gamma-58.vercel.app/api/top-langs/?username=teejay717&layout=compact&theme=tokyonight&langs_count=5" />
-</div>
-
----
