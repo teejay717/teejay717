@@ -1,6 +1,6 @@
 # Hi there, I'm Teejay! 👋
 
-## I'm an **Aspiring Full Stack Developer** currently expanding my skillset into the Backend. I love learning how applications work under the hood and have recently built my first complete **MERN Stack** application.
+## I'm an **Aspiring Full Stack Developer** currently expanding my skillset into the Backend. I love learning how applications work under the hood and recently built a complete **MERN Stack Budget Tracker** app.
 
 ---
 
@@ -30,17 +30,22 @@
 
 ### 🚀 What I'm Working On
 
-#### 🚧 [**MERN Todo App**](https://github.com/teejay717/mern-todo-app) • _Full Stack Task Management_
-This is my first full-stack project to understand the request-response cycle.
+#### 💸 [**Tipid - MERN Budget Tracker**](https://budget-tracker-roan-ten.vercel.app/login) • _Full Stack Personal Finance Tracker_
+A complete MERN app for tracking income, expenses, and spending behavior.
 
-* **Goal:** To learn how to connect a React Frontend to a Node/Express Backend.
-* **Tech:** React, Node.js, Express, MongoDB Atlas.
-* **Features:** Full CRUD capabilities with data persistence in the cloud.
+* **Goal:** Build a real-world full-stack app with authentication, protected routes, and data visualization.
+* **Tech:** React, Vite, Tailwind CSS, Node.js, Express, MongoDB Atlas, JWT, Recharts.
+* **Features:** Auth, transaction CRUD, category management, date filtering, and dashboard analytics.
 
 **🧠 Technical Challenges & Learnings**
-* **State Management & Persistence:** Handled the challenge of keeping the UI in sync with the MongoDB database by implementing optimistic UI updates and proper request-response handling.
-* **RESTful API Design:** Developed a deep understanding of the request-response cycle by building custom Express routes and handling asynchronous operations with `async/await`.
-* **Deployment Workflow:** Navigated the complexities of CORS and environment variables to connect a Vercel-hosted frontend with a Render-hosted backend.
+* **Authentication & Security:** Implemented JWT-based auth, protected API routes, and token handling across frontend and backend.
+* **State + API Sync:** Managed global state updates and async API flows to keep UI and MongoDB data consistent.
+* **Data Modeling:** Designed related models for users, transactions, and categories with proper ownership and validation.
+* **Charts & Insights:** Transformed raw transaction data into monthly and category-based visual summaries.
+* **Deployment Workflow:** Worked through CORS and environment variable setup for frontend-backend communication.
 
 ---
 
+### 📫 Let's Connect
+
+- Feel free to check out my projects and follow my full-stack learning journey!
