@@ -1,6 +1,6 @@
 # Hi there, I'm Teejay! 👋
 
-## I'm an **Aspiring Full Stack Developer** currently expanding my skillset into the Backend. I love learning how applications work under the hood and recently built a complete **MERN Stack Budget Tracker** app.
+## I’m a Full Stack Developer who loves turning complex logic into clean, functional code. Having recently launched Tipid, a solo-built MERN budget tracker, I’ve transitioned from exploring the "how" of applications to mastering the "why" behind scalable full-stack architecture.
 
 ---
 
