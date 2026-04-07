@@ -1,10 +1,10 @@
-# Hi there, I'm Teejay! 👋
+# Hi there, I'm Teejay! 
 
 ## I’m a Full Stack Developer who loves turning complex logic into clean, functional code. Having recently launched Tipid, a solo-built MERN budget tracker, I’ve transitioned from exploring the "how" of applications to mastering the "why" behind scalable full-stack architecture.
 
 ---
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 **Frontend**
 <br>
@@ -28,16 +28,16 @@
 
 ---
 
-### 🚀 What I'm Working On
+### What I'm Working On
 
-#### 💸 [**Tipid - MERN Budget Tracker**](https://github.com/teejay717/tipid-budget-tracker) • _Full Stack Personal Finance Tracker_
+#### [**Tipid - MERN Budget Tracker**](https://github.com/teejay717/tipid-budget-tracker) • _Full Stack Personal Finance Tracker_
 A complete MERN app for tracking income, expenses, and spending behavior.
 
 * **Goal:** Build a real-world full-stack app with authentication, protected routes, and data visualization.
 * **Tech:** React, Vite, Tailwind CSS, Node.js, Express, MongoDB Atlas, JWT, Recharts.
 * **Features:** Auth, transaction CRUD, category management, date filtering, and dashboard analytics.
 
-**🧠 Technical Challenges & Learnings**
+** Technical Challenges & Learnings**
 * **Authentication & Security:** Implemented JWT-based auth, protected API routes, and token handling across frontend and backend.
 * **State + API Sync:** Managed global state updates and async API flows to keep UI and MongoDB data consistent.
 * **Data Modeling:** Designed related models for users, transactions, and categories with proper ownership and validation.
@@ -46,6 +46,6 @@ A complete MERN app for tracking income, expenses, and spending behavior.
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 - Feel free to check out my projects and follow my full-stack learning journey!
