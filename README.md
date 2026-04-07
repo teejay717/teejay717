@@ -37,7 +37,7 @@ A complete MERN app for tracking income, expenses, and spending behavior.
 * **Tech:** React, Vite, Tailwind CSS, Node.js, Express, MongoDB Atlas, JWT, Recharts.
 * **Features:** Auth, transaction CRUD, category management, date filtering, and dashboard analytics.
 
-** Technical Challenges & Learnings**
+**Technical Challenges & Learnings**
 * **Authentication & Security:** Implemented JWT-based auth, protected API routes, and token handling across frontend and backend.
 * **State + API Sync:** Managed global state updates and async API flows to keep UI and MongoDB data consistent.
 * **Data Modeling:** Designed related models for users, transactions, and categories with proper ownership and validation.
