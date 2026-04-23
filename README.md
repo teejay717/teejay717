@@ -1,19 +1,27 @@
+<div align="center">
+
 # Hi, I'm Teejay! 👋
 
 ### Computer Science Student & Aspiring Software Engineer
 I’m a first-year student focused on moving beyond the basics. While I'm still early in my academic journey, I’m passionate about building end-to-end applications and mastering the architecture behind modern, type-safe software.
 
+</div>
+
 ---
 
-### Tech Stack & Tools
+### 🛠 Tech Stack & Tools
 
-**The Foundation (MERN)**
+**Foundations (MERN)**
 <br>
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=61DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=61DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 **Currently Mastering (PERN + Type Safety)**
 <br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black) ![Clerk](https://img.shields.io/badge/Clerk_Auth-6C47FF?style=flat-square&logo=clerk&logoColor=white)
+
+**Tools & Deployment**
+<br>
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
 ---
 
