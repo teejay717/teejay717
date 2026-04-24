@@ -1,7 +1,6 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=1000&color=3A91FF&center=true&width=435&lines=Hi%2C+I'm+Teejay!+%F0%9F%91%8B;Computer+Science+Student;Aspiring+Software+Engineer)](https://git.io/typing-svg)
-
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=3A91FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Teejay!+%F0%9F%91%8B;Computer+Science+Student)](https://git.io/typing-svg)
 ### Computer Science Student & Aspiring Software Engineer
 I’m a first-year student focused on moving beyond the basics. While I'm still early in my academic journey, I’m passionate about building end-to-end applications and mastering the architecture behind modern, type-safe software.
 
