@@ -60,5 +60,3 @@ A comprehensive data persistence financial application tracking balances, habits
 
 ---
 
-### 🤝 Let's Collaborate!
-I'm actively prepping for the upcoming **SAMAHAN SysDev** application cycle. If you love discussing Next.js server design, Postgres performance, or building software systems in public, let's connect!
