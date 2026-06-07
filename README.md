@@ -3,7 +3,7 @@
 # Hi, I'm Teejay!
 ### `Student Developer` & `Computer Science Student`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=100&color=3A91FF&center=true&vCenter=true&width=435&lines=Building+full-stack+apps;;Learning+relational+DBs;;Integrating+cloud+AI+tools;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=3A91FF&center=true&vCenter=true&width=435&lines=Building+full-stack+apps;;Learning+relational+DBs;;Integrating+cloud+AI+tools;)](https://git.io/typing-svg)
 
 I’m a first-year Computer Science student working on moving past the basics. Right now, I'm focusing on building actual full-stack apps, architecting Postgres schemas, and diving deeper into learning cloud AI tools and integrations.
 </div>
