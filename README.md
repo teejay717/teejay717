@@ -29,14 +29,6 @@ I’m a first-year Computer Science student working on moving past the basics. R
 
 ---
 
-## What I'm focused on lately
-
-* **AI Integration & Tools:** Structuring native Function Calling setups using hosted Gemini APIs so server actions can pull database contexts from text prompts.
-* **Advanced Version Control:** Working past the basics to get comfortable with group dev flows, branching strategies, and resolving merge conflicts cleanly.
-* **Cloud Architecture:** Breaking down core AWS resource mapping (EC2, S3, IAM) to prep for the university AI Practitioner exam window.
-
----
-
 <div align="center">
 
 ### Let's Connect
