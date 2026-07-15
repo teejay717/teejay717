@@ -1,4 +1,4 @@
-<div align="center">
+wwwwwwwwwwwwwwwwwww<div align="center">
 
 # Hi, I'm Teejay!
 ### `Student Developer` & `Computer Science Student`
@@ -24,7 +24,7 @@ I’m a first-year Computer Science student working on moving past the basics. R
 
 | Project | Stack & Status | Key Implementations | Link |
 | :--- | :--- | :--- | :--- |
-| **Klee**<br><small>Distributed Household Tracker</small> | `Next.js` `TypeScript` `NeonDB` `Drizzle` `Clerk` `Upstash Redis` `Zod`<br><br>**Repo:** Private<br>**Build:** Architecture Complete | • **Validation:** Enforced input schemas across Server Actions using Zod to catch client errors early.<br>• **Data Layer:** Designed relational tables using Neon DB and Drizzle ORM for end-to-end type safety.<br>• **Auth:** Managed user access and multi-tenant routes natively with Clerk.<br>• **Security:** Layered Upstash Redis to rate-limit server endpoints and protect database connections. | [Explore Repo](https://github.com/teejay717/klee-app) |
+| **Klee**<br><small>Distributed Household Tracker</small> | `Next.js` `TypeScript` `NeonDB` `Drizzle` `Clerk` `Upstash Redis` `Zod`<br><br>**Build:** In Active Development | • **Validation:** Enforced input schemas across Server Actions using Zod to catch client errors early.<br>• **Data Layer:** Designed relational tables using Neon DB and Drizzle ORM for end-to-end type safety.<br>• **Auth:** Managed user access and multi-tenant routes natively with Clerk.<br>• **Security:** Layered Upstash Redis to rate-limit server endpoints and protect database connections. | [Explore Repo](https://github.com/teejay717/klee-app) |
 | **Tipid**<br><small>Decoupled Budget Tracker</small> | `React` `Node.js` `Express` `MongoDB` `Recharts` `JWT` `Tailwind CSS`<br><br>**Build:** Stable | • **Auth:** Built custom backend authentication using JWT strategies and bcrypt password hashing.<br>• **Visuals:** Transformed raw document logs into interactive dashboard graphics using Recharts.<br>• **Hosting:** Coordinated deployment for a split architecture (Vercel frontend linking to Render backend). | [Explore Repo](https://github.com/teejay717/tipid-budget-tracker) |
 
 ---
