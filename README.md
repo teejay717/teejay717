@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=100&color=248CF7&center=true&vCenter=true&width=500&lines=Building+Full-stack+Applications;Learning+Backend+Architecture;Designing+Relational+Databases)](https://git.io/typing-svg)
 
-First-year Computer Science student focused on building purposeful, well-structured software.
+Second-year Computer Science student focused on building purposeful, well-structured software.
 Currently deepening my understanding of backend architecture, relational database design, and cloud integrations.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/terenz-jahred-dantes-19296039a/)
